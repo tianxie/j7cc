@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.printf("Minimum Priority: %s\n",Thread.MIN_PRIORITY);
         System.out.printf("Normal Priority: %s\n",Thread.NORM_PRIORITY);
-        System.out.printf("Maximun Priority: %s\n",Thread.MAX_PRIORITY);
+        System.out.printf("Maximum Priority: %s\n",Thread.MAX_PRIORITY);
 
         Thread threads[] = new Thread[10];
         Thread.State status[] = new Thread.State[10];
