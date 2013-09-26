@@ -3,6 +3,7 @@ package ch1_recipe09;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * Using local thread variables
  * Date: 13-9-26
  * Time: 20:59
  */
