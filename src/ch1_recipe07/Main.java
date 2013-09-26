@@ -4,6 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
+ * Creating and running a daemon thread
  * Date: 13-9-26
  * Time: 19:34
  */
